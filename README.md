@@ -1,2 +1,3 @@
 # hello-world
-Exercícios - Setup de ferramentas
+Exercício de Casa
+Setup de Ferramentas
